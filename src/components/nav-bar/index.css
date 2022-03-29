@@ -1,0 +1,31 @@
+.card {
+  transition: height 0.5s ease-in-out;
+  will-change: height;
+}
+
+.text {
+  padding: 10px;
+  background-color: white;
+}
+
+.links {
+  padding: 10px 0;
+  background-color: lightgrey;
+  cursor: pointer;
+  height: 1.5em;
+}
+
+.links a {
+  color: var(--heading-color);
+  min-width: 80px;
+  min-height: 44px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.links a:focus,
+.links a:hover {
+  background-color: #eeeeee;
+}

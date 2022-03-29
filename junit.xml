@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="6" failures="0" time="2.341">
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2022-03-19T09:52:08" time="1.728" tests="6">
+    <testcase classname=" initial UI is rendered as expected" name=" initial UI is rendered as expected" time="0.033">
+    </testcase>
+    <testcase classname=" News tab works" name=" News tab works" time="0.018">
+    </testcase>
+    <testcase classname=" Contact tab works" name=" Contact tab works" time="0.006">
+    </testcase>
+    <testcase classname=" About tab works" name=" About tab works" time="0.005">
+    </testcase>
+    <testcase classname=" Home tab works" name=" Home tab works" time="0.004">
+    </testcase>
+    <testcase classname=" Navigation works" name=" Navigation works" time="0.01">
+    </testcase>
+  </testsuite>
+</testsuites>
